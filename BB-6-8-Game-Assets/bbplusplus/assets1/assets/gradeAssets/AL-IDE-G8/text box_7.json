@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 25 instance 10000",
+	"frame": {"x":0,"y":0,"w":802,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":802,"h":77},
+	"sourceSize": {"w":802,"h":77}
+}
+,{
+	"filename": "Symbol 25 instance 10001",
+	"frame": {"x":802,"y":0,"w":802,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":802,"h":77},
+	"sourceSize": {"w":802,"h":77}
+}
+,{
+	"filename": "Symbol 25 instance 10002",
+	"frame": {"x":1604,"y":0,"w":802,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":802,"h":77},
+	"sourceSize": {"w":802,"h":77}
+}
+,{
+	"filename": "Symbol 25 instance 10003",
+	"frame": {"x":2406,"y":0,"w":802,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":802,"h":77},
+	"sourceSize": {"w":802,"h":77}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "text box_7.png",
+	"format": "RGBA8888",
+	"size": {"w":3219,"h":83},
+	"scale": "1"
+}
+}

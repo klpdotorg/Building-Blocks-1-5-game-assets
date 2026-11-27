@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 14 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":75,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":77},
+	"sourceSize": {"w":75,"h":77}
+}
+,{
+	"filename": "Symbol 14 copy 2 instance 10001",
+	"frame": {"x":75,"y":0,"w":75,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":77},
+	"sourceSize": {"w":75,"h":77}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "arrow_3.png",
+	"format": "RGBA8888",
+	"size": {"w":151,"h":78},
+	"scale": "1"
+}
+} 

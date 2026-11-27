@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 7 instance 10000",
+	"frame": {"x":0,"y":0,"w":99,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":101},
+	"sourceSize": {"w":99,"h":101}
+}
+,{
+	"filename": "Symbol 7 instance 10001",
+	"frame": {"x":99,"y":0,"w":99,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":101},
+	"sourceSize": {"w":99,"h":101}
+}
+,{
+	"filename": "Symbol 7 instance 10002",
+	"frame": {"x":198,"y":0,"w":99,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":101},
+	"sourceSize": {"w":99,"h":101}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "blue circle.png",
+	"format": "RGBA8888",
+	"size": {"w":297,"h":102},
+	"scale": "1"
+}
+}

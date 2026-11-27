@@ -1,0 +1,51 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 5 instance 10000",
+	"frame": {"x":0,"y":0,"w":414,"h":443},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":443},
+	"sourceSize": {"w":414,"h":443}
+}
+,{
+	"filename": "Symbol 5 instance 10001",
+	"frame": {"x":414,"y":0,"w":414,"h":443},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":443},
+	"sourceSize": {"w":414,"h":443}
+}
+,{
+	"filename": "Symbol 5 instance 10002",
+	"frame": {"x":828,"y":0,"w":414,"h":443},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":443},
+	"sourceSize": {"w":414,"h":443}
+}
+,{
+	"filename": "Symbol 5 instance 10003",
+	"frame": {"x":1242,"y":0,"w":414,"h":443},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":443},
+	"sourceSize": {"w":414,"h":443}
+}
+,{
+	"filename": "Symbol 5 instance 10004",
+	"frame": {"x":1656,"y":0,"w":414,"h":443},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":443},
+	"sourceSize": {"w":414,"h":443}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "box_2.png",
+	"format": "RGBA8888",
+	"size": {"w":2077,"h":444},
+	"scale": "1"
+}
+}

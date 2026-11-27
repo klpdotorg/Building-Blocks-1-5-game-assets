@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":208,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":107},
+	"sourceSize": {"w":208,"h":107}
+}
+,{
+	"filename": "Symbol 2 instance 10001",
+	"frame": {"x":208,"y":0,"w":208,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":107},
+	"sourceSize": {"w":208,"h":107}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "Shape_4.2.png",
+	"format": "RGBA8888",
+	"size": {"w":416,"h":108},
+	"scale": "1"
+}
+}

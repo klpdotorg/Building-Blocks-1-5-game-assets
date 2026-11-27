@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 27 instance 10000",
+	"frame": {"x":0,"y":0,"w":89,"h":292},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":292},
+	"sourceSize": {"w":89,"h":292}
+}
+,{
+	"filename": "Symbol 27 instance 10001",
+	"frame": {"x":89,"y":0,"w":89,"h":292},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":292},
+	"sourceSize": {"w":89,"h":292}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "water_2.1.png",
+	"format": "RGBA8888",
+	"size": {"w":179,"h":294},
+	"scale": "1"
+}
+}

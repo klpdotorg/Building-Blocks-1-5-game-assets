@@ -1,0 +1,43 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 42 instance 10000",
+	"frame": {"x":0,"y":0,"w":306,"h":241},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":306,"h":241},
+	"sourceSize": {"w":306,"h":241}
+}
+,{
+	"filename": "Symbol 42 instance 10001",
+	"frame": {"x":306,"y":0,"w":306,"h":241},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":306,"h":241},
+	"sourceSize": {"w":306,"h":241}
+}
+,{
+	"filename": "Symbol 42 instance 10002",
+	"frame": {"x":612,"y":0,"w":306,"h":241},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":306,"h":241},
+	"sourceSize": {"w":306,"h":241}
+}
+,{
+	"filename": "Symbol 42 instance 10003",
+	"frame": {"x":918,"y":0,"w":306,"h":241},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":306,"h":241},
+	"sourceSize": {"w":306,"h":241}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "GMLA-06-G7.png",
+	"format": "RGBA8888",
+	"size": {"w":1233,"h":256},
+	"scale": "1"
+}
+}

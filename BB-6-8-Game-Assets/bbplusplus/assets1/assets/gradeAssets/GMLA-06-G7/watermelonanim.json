@@ -1,0 +1,51 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 45 copy 3 instance 10000",
+	"frame": {"x":0,"y":0,"w":241,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":152},
+	"sourceSize": {"w":241,"h":152}
+}
+,{
+	"filename": "Symbol 45 copy 3 instance 10001",
+	"frame": {"x":241,"y":0,"w":241,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":152},
+	"sourceSize": {"w":241,"h":152}
+}
+,{
+	"filename": "Symbol 45 copy 3 instance 10002",
+	"frame": {"x":482,"y":0,"w":241,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":152},
+	"sourceSize": {"w":241,"h":152}
+}
+,{
+	"filename": "Symbol 45 copy 3 instance 10003",
+	"frame": {"x":723,"y":0,"w":241,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":152},
+	"sourceSize": {"w":241,"h":152}
+}
+,{
+	"filename": "Symbol 45 copy 3 instance 10004",
+	"frame": {"x":964,"y":0,"w":241,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":152},
+	"sourceSize": {"w":241,"h":152}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "anim_5.png",
+	"format": "RGBA8888",
+	"size": {"w":1213,"h":160},
+	"scale": "1"
+}
+}

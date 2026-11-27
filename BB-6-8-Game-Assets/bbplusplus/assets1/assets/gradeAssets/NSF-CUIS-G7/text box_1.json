@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 18 instance 10000",
+	"frame": {"x":0,"y":0,"w":81,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":99},
+	"sourceSize": {"w":81,"h":99}
+}
+,{
+	"filename": "Symbol 18 instance 10001",
+	"frame": {"x":81,"y":0,"w":81,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":99},
+	"sourceSize": {"w":81,"h":99}
+}
+,{
+	"filename": "Symbol 18 instance 10002",
+	"frame": {"x":162,"y":0,"w":81,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":99},
+	"sourceSize": {"w":81,"h":99}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "text box_1.png",
+	"format": "RGBA8888",
+	"size": {"w":243,"h":99},
+	"scale": "1"
+}
+}

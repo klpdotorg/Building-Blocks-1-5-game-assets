@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 6 instance 10000",
+	"frame": {"x":0,"y":0,"w":171,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":86},
+	"sourceSize": {"w":171,"h":86}
+}
+,{
+	"filename": "Symbol 6 instance 10001",
+	"frame": {"x":171,"y":0,"w":171,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":86},
+	"sourceSize": {"w":171,"h":86}
+}
+,{
+	"filename": "Symbol 6 instance 10002",
+	"frame": {"x":342,"y":0,"w":171,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":86},
+	"sourceSize": {"w":171,"h":86}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "angle_3.png",
+	"format": "RGBA8888",
+	"size": {"w":519,"h":87},
+	"scale": "1"
+}
+}

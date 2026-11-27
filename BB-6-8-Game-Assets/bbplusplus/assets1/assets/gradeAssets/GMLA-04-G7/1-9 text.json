@@ -1,0 +1,83 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 5 instance 10000",
+	"frame": {"x":0,"y":0,"w":22,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":41},
+	"sourceSize": {"w":22,"h":41}
+}
+,{
+	"filename": "Symbol 5 instance 10001",
+	"frame": {"x":22,"y":0,"w":22,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":41},
+	"sourceSize": {"w":22,"h":41}
+}
+,{
+	"filename": "Symbol 5 instance 10002",
+	"frame": {"x":44,"y":0,"w":22,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":41},
+	"sourceSize": {"w":22,"h":41}
+}
+,{
+	"filename": "Symbol 5 instance 10003",
+	"frame": {"x":66,"y":0,"w":22,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":41},
+	"sourceSize": {"w":22,"h":41}
+}
+,{
+	"filename": "Symbol 5 instance 10004",
+	"frame": {"x":88,"y":0,"w":22,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":41},
+	"sourceSize": {"w":22,"h":41}
+}
+,{
+	"filename": "Symbol 5 instance 10005",
+	"frame": {"x":110,"y":0,"w":22,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":41},
+	"sourceSize": {"w":22,"h":41}
+}
+,{
+	"filename": "Symbol 5 instance 10006",
+	"frame": {"x":132,"y":0,"w":22,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":41},
+	"sourceSize": {"w":22,"h":41}
+}
+,{
+	"filename": "Symbol 5 instance 10007",
+	"frame": {"x":154,"y":0,"w":22,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":41},
+	"sourceSize": {"w":22,"h":41}
+}
+,{
+	"filename": "Symbol 5 instance 10008",
+	"frame": {"x":176,"y":0,"w":22,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":41},
+	"sourceSize": {"w":22,"h":41}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "1-9 text.png",
+	"format": "RGBA8888",
+	"size": {"w":198,"h":43},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 3 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":57,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":60},
+	"sourceSize": {"w":57,"h":60}
+}
+,{
+	"filename": "Symbol 3 copy 2 instance 10001",
+	"frame": {"x":57,"y":0,"w":57,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":60},
+	"sourceSize": {"w":57,"h":60}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "AL_GAME_G7.png",
+	"format": "RGBA8888",
+	"size": {"w":118,"h":61},
+	"scale": "1"
+}
+}

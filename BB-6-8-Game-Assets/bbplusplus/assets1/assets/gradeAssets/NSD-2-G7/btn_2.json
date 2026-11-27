@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 2 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+}
+,{
+	"filename": "Symbol 2 copy 2 instance 10001",
+	"frame": {"x":62,"y":0,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "btn_2.png",
+	"format": "RGBA8888",
+	"size": {"w":127,"h":62},
+	"scale": "1"
+}
+}

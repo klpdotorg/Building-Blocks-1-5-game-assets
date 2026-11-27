@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 29 copy 2 instance 10000",
+	"frame": {"x":0,"y":0,"w":307,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":266},
+	"sourceSize": {"w":307,"h":266}
+}
+,{
+	"filename": "Symbol 29 copy 2 instance 10001",
+	"frame": {"x":307,"y":0,"w":307,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":266},
+	"sourceSize": {"w":307,"h":266}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.0.93",
+	"image": "Shape_8.0.png",
+	"format": "RGBA8888",
+	"size": {"w":616,"h":266},
+	"scale": "1"
+}
+}
